@@ -2,13 +2,19 @@
 
 > **Read-only archive of released versions of foskym/nickname-group-formatter.** Not for installation: use [Packagist](https://packagist.org/packages/foskym/nickname-group-formatter) or the [upstream repository](https://github.com/FoskyM/flarum-nickname-group-formatter).
 
-**0** versions archived · Latest: [`v1.0.6`](https://github.com/flarchive/foskym-nickname-group-formatter/tree/archive/v1.0.6) · License: `MIT` · Flarum: `>=1.8.0`
+**7** versions archived · Latest: [`v1.0.6`](https://github.com/flarchive/foskym-nickname-group-formatter/tree/archive/v1.0.6) · License: `MIT` · Flarum: `>=1.8.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2023-09-09 | `>=1.8.0` | [Browse](https://github.com/flarchive/foskym-nickname-group-formatter/tree/archive/v1.0.0) |
+| `v1.0.1` | 2023-09-09 | `>=1.8.0` | [Browse](https://github.com/flarchive/foskym-nickname-group-formatter/tree/archive/v1.0.1) |
+| `v1.0.2` | 2023-09-09 | `>=1.8.0` | [Browse](https://github.com/flarchive/foskym-nickname-group-formatter/tree/archive/v1.0.2) |
+| `v1.0.3` | 2023-09-24 | `>=1.8.0` | [Browse](https://github.com/flarchive/foskym-nickname-group-formatter/tree/archive/v1.0.3) |
+| `v1.0.4` | 2023-09-24 | `>=1.8.0` | [Browse](https://github.com/flarchive/foskym-nickname-group-formatter/tree/archive/v1.0.4) |
+| `v1.0.5` | 2023-09-24 | `>=1.8.0` | [Browse](https://github.com/flarchive/foskym-nickname-group-formatter/tree/archive/v1.0.5) |
+| `v1.0.6` | 2023-09-27 | `>=1.8.0` | [Browse](https://github.com/flarchive/foskym-nickname-group-formatter/tree/archive/v1.0.6) |
 
 Catalog entry: [packages/foskym-nickname-group-formatter.json](https://github.com/flarchive/archive-index/blob/main/packages/foskym-nickname-group-formatter.json)
 
